@@ -1,10 +1,10 @@
-# Вихідні коди проекту
+# Project source code
 
-Проект: *Назва завдання/проекту*
+Project: *Task/project name*
 
-Команда: *Назва команди*
+Team: *Team name*
 
-**Розробники**:
+**Developers**:
 
-- [ ] *Прізвище студента*
-- [ ] *Прізвище студента*
+- [ ] *Student name*
+- [ ] *Student's last name*
