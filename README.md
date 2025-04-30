@@ -2,72 +2,72 @@
 # 🎮 Glorica Battle
 
 <div align="center">
-  
-### _Квантова битва за реальність_
+
+### _Quantum Battle for Reality_
 
 </div>
 
 ---
 
-## 📋 Огляд
-**Glorica Battle** — це унікальна карткова стратегічна гра, дія якої розгортається у світі, де людство освоїло квантові обчислення та навчилося взаємодіяти з альтернативними реальностями. Гравці виступають у ролі "Квантових Охоронців", які підтримують стабільність реальності за допомогою спеціальних NFT-карт із квантовими кодами.
+## 📋 Overview
+**Glorica Battle** is a unique card strategy game set in a world where humanity has mastered quantum computing and learned to interact with alternative realities. Players take on the role of "Quantum Guardians" who maintain reality stability using special NFT cards with quantum codes.
 
-## 📖 Сюжет
+## 📖 Plot
 
-### 🌀 Квантова Криза
-У недалекому майбутньому людство опановує квантові обчислення, отримавши безпрецедентну можливість маніпулювати реальністю. Проте невдалий квантовий експеримент спричиняє фундаментальні зміни в історії людства, викликаючи масовий прояв Ефекту Мандели — розбіжності між спогадами людей та поточною реальністю.
+### 🌀 Quantum Crisis
+In the near future, humanity masters quantum computing, gaining unprecedented ability to manipulate reality. However, a failed quantum experiment causes fundamental changes in human history, triggering a massive manifestation of the Mandela Effect — discrepancies between people's memories and current reality.
 
-### ⚠️ Загроза
-Таємнича організація (можливо, позаземного походження) навмисно маніпулює квантовим комп'ютером для зміни реальності у власних цілях. Кожна маніпуляція створює небезпечні парадокси, що загрожують самій тканині існування.
+### ⚠️ Threat
+A mysterious organization (possibly of extraterrestrial origin) deliberately manipulates the quantum computer to change reality for their own purposes. Each manipulation creates dangerous paradoxes that threaten the very fabric of existence.
 
-### 🦸‍♂️ Ваша Роль
-Як Квантовий Охоронець, ви повинні:
-- 🌐 Подорожувати між альтернативними реальностями за допомогою NFT-карт з квантовими кодами
-- 🔄 Відновлювати зниклі події або створювати нові гілки реальності
-- ⚔️ Боротися з парадоксами, спричиненими ворожою організацією
-- 🤔 Приймати важливі рішення щодо збереження або зміни історичних подій
+### 🦸‍♂️ Your Role
+As a Quantum Guardian, you must:
+- 🌐 Travel between alternative realities using NFT cards with quantum codes
+- 🔄 Restore lost events or create new reality branches
+- ⚔️ Fight paradoxes caused by the hostile organization
+- 🤔 Make important decisions about preserving or changing historical events
 
-## 🎲 Ігрова Механіка
+## 🎲 Game Mechanics
 
-### 🃏 Квантові NFT-карти
-| Функція | Опис |
+### 🃏 Quantum NFT Cards
+| Function | Description |
 |---------|-------|
-| 💫 Квантові коди | Унікальні коди для маніпуляції реальністю |
-| 🌍 Подорожі | Можливість переміщення між світами |
-| ✍️ Переписування | Здатність змінювати історію |
-| 🛡️ Протидія | Можливість протистояти парадоксам |
+| 💫 Quantum Codes | Unique codes for reality manipulation |
+| 🌍 Travel | Ability to move between worlds |
+| ✍️ Rewriting | Ability to change history |
+| 🛡️ Countermeasures | Ability to resist paradoxes |
 
-### 🌈 Система Ефекту Мандели
-- 🏰 → 🚀 Динамічна зміна середовища бою між різними епохами
-- ⚡ Несподівані трансформації поля бою
-- 🎴 Рідкісні карти для контролю Ефекту Мандели
-- 📝 Вибір змін реальності для збереження
+### 🌈 Mandela Effect System
+- 🏰 → 🚀 Dynamic battlefield changes between different epochs
+- ⚡ Unexpected battlefield transformations
+- 🎴 Rare cards for Mandela Effect control
+- 📝 Choice of reality changes to preserve
 
-### 📊 Стратегічні Елементи
-> *"Кожне рішення формує нову реальність"*
+### 📊 Strategic Elements
+> *"Every decision shapes a new reality"*
 
-- 🦋 Кожна дія впливає на ігровий світ
-- 🌳 Вибори впливають на майбутні місії
-- 🔄 Множинні результати залежно від маніпуляцій
-- ⚖️ Баланс між збереженням та зміною подій
+- 🦋 Every action affects the game world
+- 🌳 Choices influence future missions
+- 🔄 Multiple outcomes depending on manipulations
+- ⚖️ Balance between preserving and changing events
 
-## 🎯 Особливості Гри
-- 🌪️ Динамічні поля бою зі зміною реальності
-- ♟️ Стратегічна карткова бойова система
-- 📚 Множинні сюжетні лінії
-- 🔮 Унікальні квантові механіки
-- 🤝 Багатокористувацькі битви з викривленням реальності
+## 🎯 Game Features
+- 🌪️ Dynamic battlefields with reality changes
+- ♟️ Strategic card combat system
+- 📚 Multiple storylines
+- 🔮 Unique quantum mechanics
+- 🤝 Multiplayer battles with reality distortion
 
-## 📜 Структура Місій
-1. 🔍 **Виявлення** порушень timeline
-2. ⚔️ **Боротьба** з ворожими силами
-3. 🤔 **Прийняття** стратегічних рішень
-4. 📝 **Робота** з наслідками змін
+## 📜 Mission Structure
+1. 🔍 **Detection** of timeline violations
+2. ⚔️ **Combat** with hostile forces
+3. 🤔 **Making** strategic decisions
+4. 📝 **Dealing** with change consequences
 
 ---
 
 <div align="center">
-  
-### 💫 Приєднуйтесь до битви за збереження реальності в Glorica Battle, де кожне рішення формує не лише майбутнє, а й минуле! 
+
+### 💫 Join the battle to preserve reality in Glorica Battle, where each decision shapes not only the future but also the past!
 
 </div>
