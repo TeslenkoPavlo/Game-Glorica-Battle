@@ -161,7 +161,7 @@ Requirements define what the solution you are developing should do (what service
 >    - viewing the user's transaction history
 >    - integration of NFT progress with the player's account in the leaderboard system
 
-#### СИСТЕМНІ ВИМОГИ
+#### SYSTEM REQUIREMENTS
 
 >- **System requirements for the solution include:**
 >    - use of a blockchain with support for smart contracts (Ethereum, Polygon or Solana)
