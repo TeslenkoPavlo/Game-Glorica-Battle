@@ -1,244 +1,243 @@
-# КОНЦЕПЦІЯ ПРОЕКТУ
+# PROJECT CONCEPT
 
-Етап: *Аналізу проекту (Envisioning)*
+Stage: *Project analysis (Envisioning)*.
 
-Проект: Glorica Battle
+Project: Glorica Battle
 
-Команда: Byte of Byte
+Team: Byte of Byte
 
-Виконали:
->- [x] Тесленко П.П.
->- [x] Пічугін Я.С.
->- [x] Ладіков М.Ю. 
+Performed by:
+>- [x] Teslenko P.P.
+>- [x] Pichugin Y.S.
+>- [x] Ladikov M.Yu.
 
-## **1. НЕОБХІДНІСТЬ ПРОЕКТУ**
+## **1. PROJECT NEEDS**.
 
-Ітеративний підхід до процесу розробки (характерний для MSF) вимагає використання гнучкого способу ведення документації - *живі документи (living documents)* мають змінюватися в ході еволюції проекту. Такий підхід істотно відрізняється від принципів ведення документації каскадної моделі, де процес розробки починається лише після того, як будуть готові і зафіксовані всі вимоги і специфікації.
+The iterative approach to the development process (characteristic of MSF) requires the use of a flexible way of maintaining documentation - *living documents* should change during the evolution of the project. This approach differs significantly from the principles of the cascade model documentation, where the development process begins only after all requirements and specifications are ready and recorded.
 
-Документація проектів MSF, як і їх програмний код, створюється ітеративно. На *фазі створення концепції (аналізу)* плани мають форму опису високорівневих *підходів* і в процесі підготовки поширюються серед членів проектної групи та інших зацікавлених осіб для отримання відгуків. 
+MSF project documentation, like their program code, is created iteratively. During the *conceptualization (analysis) phase*, plans take the form of high-level descriptions of *approaches* and are circulated to project team members and other stakeholders for feedback. 
 
-Наприклад, підхід до тестування може бути коротко сформульований під час фази аналізу, а його перетворення в план тестування відбувається на пізніх фазах. Після переходу до *фази планування* документи поступово допрацьовуються, виникають детальні плани які знову надходять на перевірку всіма зацікавленими сторонами, і описаний процес повторюється ітеративно. Типи планів і загальна кількість документів, які їх описують, можуть змінюватись від проекту до проекту
+For example, a test approach may be briefly formulated during the analysis phase and transformed into a test plan in later phases. After moving to the *planning phase*, the documents are gradually finalized, detailed plans are created and submitted to all stakeholders for review, and the process described above is repeated iteratively. The types of plans and the total number of documents describing them may vary from project to project
 
-### **1.1. Обгрунтування необхідності**
+### **1.1. Justification of the need**
 
-#### ДЛЯ ГРАВЦІВ
+#### FOR PLAYERS
 
-##### ПРОБЛЕМИ
->- Монотонність існуючих NFT-ігор та відсутність інновацій
->- Складність входу в світ NFT-ігор через високі початкові вкладення
+##### PROBLEMS
+>- Monotony of existing NFT games and lack of innovation
+>- Difficulty in entering the world of NFT games due to high initial investments
 
-##### ЗАДОВОЛЕННЯ ПОТРЕБ
->- Впровадження інноваційної системи квантових механік для урізноманітнення геймплею
->- Реалізація системи множинних сюжетних ліній для забезпечення впливу гравців на історію
->- Створення динамічних полів бою для підтримки постійного інтересу
->- Розробка глибокої стратегічної карткової системи для інтелектуального задоволення
->- Впровадження системи колекціонування NFT-карт для довготривалої залученості
+##### NEEDS
+>- Implementation of an innovative system of quantum mechanics to diversify gameplay
+>- Implementation of a system of multiple storylines to ensure players influence the story
+>- Creation of dynamic battlefields to maintain constant interest
+>- Development of a deep strategic card system for intellectual satisfaction
+>- Implementation of an NFT card collecting system for long-term engagement
 
-#### ДЛЯ ІНВЕСТОРІВ
+#### FOR INVESTORS
 
-##### ПРОБЛЕМИ
->- Ризики інвестування в перенасичений ринок NFT
->- Нестабільність існуючих NFT-проектів
->- Відсутність інноваційних концепцій на ринку
->- Складність оцінки потенціалу проектів
+##### CHALLENGES
+>- Risks of investing in an oversaturated NFT market
+>- Instability of existing NFT projects
+>- Lack of innovative concepts on the market
+>- Difficulty in assessing project potential
 
-##### ЗАДОВОЛЕННЯ ПОТРЕБ
->- Впровадження прозорої моделі монетизації з чіткими метриками
->- Створення унікального продукту з захищеною технологічною базою
->- Забезпечення масштабованості через модульну архітектуру
->- Реалізація стабільної економічної моделі з множинними джерелами доходу
->- Створення диверсифікованої системи інвестиційних можливостей
+##### MEETING NEEDS
+>- Implementation of a transparent monetization model with clear metrics
+>- Creation of a unique product with a secure technological base
+>- Ensuring scalability through a modular architecture
+>- Implementation of a stable economic model with multiple sources of income
+>- Creation of a diversified system of investment opportunities
 
-### **1.2. Бачення проекту**
+### **1.2. Project vision**
 
-*Бачення (vision)* - це нічим не обмежене уявлення про те, яким має бути рішення (solution). Бачення проекту спрямоване на формування єдиного розуміння концепції проекту всіма залученими сторонами. 
+*A vision is an open-ended idea of what a solution should look like. The project vision is aimed at creating a common understanding of the project concept by all parties involved. 
 
-Формулювання бачення або *vision statement* має бути досить коротким для запам'ятовування, досить ясним для розуміння і досить сильним для мотивації. Коректне формулювання бачення відповідає п'яти характеристикам SMART:
+The vision statement should be short enough to be memorable, clear enough to be understood, and strong enough to motivate. A good vision statement meets the five SMART characteristics:
 
-- **Specific** (визначеність / конкретність) - бачення чітко вказує на той (ідеальний) стан, досягнення якого є метою проекту
-- **Measurable** (вимірюваність) - дає проектній групі чіткий критерій успішності проекту і досягнення поставлених цілей
-- **Achievable** (досяжність) - цілі, сформульовані в баченні, мають бути досяжні в рамках наявних ресурсів, часу і можливостей команди. Досяжність мотивує команду на виконання проекту.
-- **Relevant** (обгрунтованість) - цілі, сформульовані в баченні, повинні мати істотне значення для зацікавлених сторін і безпосередньо бути пов'язаними з їх проблемами та/або потребами.
-- **Time-based** (обмеженість у часі) - бачення має чітко вказувати на очікувані часові рамки, в які рішення буде створене.
+- **Specific** - the vision clearly indicates the (ideal) state that the project aims to achieve
+- **Measurable** - provides the project team with a clear criterion for the success of the project and the achievement of its goals
+- **Achievable** - the goals set out in the vision should be achievable within the available resources, time, and capabilities of the team. Achievability motivates the team to complete the project
+- **Relevant** - the goals set out in the vision should be of significant importance to stakeholders and directly related to their problems and/or needs
+- **Time-based** - the vision should clearly indicate the expected timeframe in which the solution will be created
 
-Glorica Battle - це інноваційна NFT-карткова стратегія у світі квантових технологій для гравців, які прагнуть унікального геймплею та впливу на розвиток сюжету. Проект вирішує проблему монотонності існуючих NFT-ігор через квантові механіки та доступну економічну модель.
+Glorica Battle is an innovative NFT card strategy in the world of quantum technologies for players seeking unique gameplay and influence on the development of the plot. The project solves the problem of monotony of existing NFT games through quantum mechanics and an affordable economic model.
 
-### **1.3. Аналіз вигод**
+### **1.3. Benefit Analysis**
 
->В результаті впровадження інноваційної NFT-карткової гри Glorica Battle, зацікавлені сторони отримають наступні вигоди:
->- Гравці
->   - Унікальний ігровий досвід завдяки впровадженню квантових механік, що дозволяють змінювати хід гри та подій у реальному часі
->   - Глибока стратегія - карткова система зі складними комбінаціями й можливістю інтелектуального змагання з іншими гравцями
->   - Цінність володіння - NFT-карти мають унікальність і колекційну цінність, що стимулює довготривале залучення
->- Інвестори
->   - Прозора монетизація - завдяки відкритим метрикам доходу та стабільній економічній моделі інвестори можуть прогнозувати прибутковість проекту
->   - Інноваційний продукт - використання квантової тематики та сюжетного занурення робить проект унікальним серед конкурентів
->   - Розширене коло інвестування - можливість інвестування на різних етапах (NFT, внутрішня валюта, геймплейні елементи) забезпечує диверсифікацію ризиків
->- Команда розробки
->   - Можливість створення спільноти - побудова активної геймерської та інвесторської спільноти навколо гри для підвищення лояльності та просування бренду
+>As a result of the implementation of the innovative NFT card game Glorica Battle, stakeholders will receive the following benefits:
+>- Players
+>   - Unique gaming experience due to the introduction of quantum mechanics that allow changing the course of the game and events in real time
+>   - Deep strategy - a card system with complex combinations and the possibility of intellectual competition with other players
+>   - Value of ownership - NFT cards have uniqueness and collector value, which stimulates long-term involvement
+
+>- Investors
+>   - Transparent monetization - thanks to open revenue metrics and a stable economic model, investors can predict the profitability of the project
+>   - Innovative product - the use of quantum themes and story immersion makes the project unique among competitors
+>   - Expanded investment range - the possibility of investing at different stages (NFT, local currency, gameplay elements) ensures risk diversification
+
+>- Development team
+>   - Possibility of creating a community - building an active gaming and investor community around the game to increase loyalty and promote the brand
  
-## **2. КОНЦЕПЦІЯ РІШЕННЯ**
+## **2. SOLUTION CONCEPT**
 
-*Концепція рішення* (solution concept) надає загальний опис підходів, які проектна група планує використовувати для вирішення проблем та/або задоволення вимог зацікавлених сторін.
+*The solution concept* provides a general description of the approaches that the project team plans to use to solve problems and/or meet stakeholder requirements.
 
-### **2.1. Цілі та Завдання**
-Формування концепції рішення починається зі з'ясування, опису та фіксації проектною групою цілей проекту. Далі кожна мета розбивається на вимірювані компоненти - *завдання*.
+### **2.1 Goals and Objectives**
+The development of the solution concept begins with the project team's identification, description, and documentation of the project objectives. Each goal is then broken down into measurable components - *tasks*.
 
-Основні цілі проєкту **Glorica Battle** спрямовані на створення інноваційної NFT-карткової гри, що поєднує квантові технології з динамічним геймплеєм та стратегічною глибиною:
->- **забезпечення унікального ігрового досвіду для гравців**
->   - впровадження квантових механік, що змінюють правила гри в режимі реального часу
->   - реалізація множинних сюжетних ліній з можливістю впливу на події
->   - створення динамічних бойових полів, що змінюються в залежності від дій гравця
->   - забезпечення візуальної і тематичної глибини для залучення гравця у світ гри
->- **забезпечення довготривалої залученості гравців**
->   - реалізація системи NFT-карт для колекціонування
->   - створення глибокої карткової стратегії з можливістю будувати індивідуальні колоди
->   - регулярне оновлення контенту (карти, події, сюжетні глави)
->   - впровадження системи досягнень, нагород і змагань між гравцями
->- **створення прозорої та масштабованої економічної моделі**
->   - впровадження чіткої та зрозумілої системи монетизації
->   - реалізація внутрішньоігрового ринку для торгівлі картами
->   - підтримка інвестування з боку гравців та зовнішніх учасників
->   - створення фінансової аналітики та звітності для інвесторів
->- **побудова безпечної та модульної технологічної архітектури**
->   - використання сучасних інструментів захисту даних та NFT-активів
->   - розробка гри на базі модульної архітектури з можливістю розширення функціоналу
->   - забезпечення стабільної роботи системи при зростанні кількості користувачів
+The main goals of the **Glorica Battle** project are aimed at creating an innovative NFT card game that combines quantum technologies with dynamic gameplay and strategic depth:
+>- **providing a unique gaming experience for players**
+>    - implementing quantum mechanics that change the rules of the game in real time
+>    - implementing multiple storylines with the ability to influence events
+>    - creating dynamic battlefields that change depending on the player's actions
+>    - providing visual and thematic depth to engage the player in the game world
+>- **ensuring long-term player engagement**
+>    - implementing a system of NFT cards for collecting
+>    - creating a deep card strategy with the ability to build individual decks
+>    - regular content updates (cards, events, story chapters)
+>    - implementing a system of achievements, rewards and competitions between players
+>- **creating a transparent and scalable economic model**
+>    - implementing a clear and understandable monetization system
+>    - implementing in-game market for trading cards
+>    - support for investment from players and external participants
+>    - creation of financial analytics and reporting for investors
+>- **building a secure and modular technological architecture**
+>    - use of modern data protection tools and NFT assets
+>    - development of a game based on a modular architecture with the possibility of expanding functionality
+>    - ensuring stable operation of the system as the number of users grows
 
-### **2.2. Припущення і Обмеження**
-У ході формування концепції рішення для проекту Glorica Battle було виявлено низку припущень, пов'язаних з очікуваною функціональністю гри, а також обмежень, що випливають як з технічного, так і з бізнес-середовища, у якому буде реалізовуватись продукт.
+### **2.2. Assumptions and Limitations**
+In the course of forming the solution concept for the Glorica Battle project, a number of assumptions were identified related to the expected functionality of the game, as well as limitations arising from both the technical and business environment in which the product will be implemented.
 
->- **Основні *припущення***
->   - гравці матимуть базові знання про NFT та криптогаманці, або проходитимуть інтерактивні туторіали вбудовані в гру
->   - гравці будуть готові взаємодіяти з мікротранзакціями в грі, якщо буде забезпечена справедлива ігрова цінність
->   - базова архітектура гри дозволить масштабувати проєкт без повного перепроєктування бекенду або клієнтської частини
->   - в грі буде можливість створювати угрупування гравців, щоб змагатися командно
->   - більшість гравців матимуть доступ до стабільного інтернет-з’єднання для участі у PvP-режимах та синхронізації даних
->   - можливість тимчасової оренди NFT (наприклад, для новачків);
->- ***Обмеження*, які слід враховувати:**
->   - усі NFT-активи мають зберігатися в блокчейні з відкритим вихідним кодом 
->   - функціональність гри має бути доступною як мінімум англійською та українською мовами при запуску
->   - взаємодія з гравцями та інвесторами має бути захищеною відповідно до вимог GDPR та стандартів безпеки Web3
->   - усі транзакції NFT повинні проходити із затвердженням користувача – автоматичні списання заборонені
->   - уся графіка та звук мають бути авторськими або ліцензованими, щоб уникнути юридичних ризиків
+>- **Basic *assumptions***
+>    - players will have basic knowledge of NFTs and crypto wallets, or will go through interactive tutorials built into the game
+>    - players will be willing to interact with in-game microtransactions if fair gameplay value is provided
+>    - the basic architecture of the game will allow the project to scale without a complete redesign of the backend or client side
+>    - the game will have the ability to create groups of players to compete as a team
+>    - most players will have access to a stable internet connection to participate in PvP modes and synchronize data
+>    - the ability to temporarily rent NFTs (e.g. for beginners)
+>- ***Limitations* to consider:**
+>    - all NFT assets must be stored on an open-source blockchain
+>    - game functionality must be available in at least English and Ukrainian at launch
+>    - player and investor interactions must be secured in accordance with GDPR and Web3 security standards
+>    - all NFT transactions must be approved by the user - automatic write-offs are prohibited
+>    - all graphics and sound must be copyrighted or licensed to avoid legal risks
 
 
-### **2.3. Аналіз використання**
-Основою формулювання вимог є аналіз використання, що включає визначення *користувачів* (users) і опис того, як користувачі будуть *взаємодіяти* з рішенням.
+### **2.3 Usage Analysis**
+The basis of requirements formulation is the use case analysis, which includes the definition of *users* and a description of how users will *interact* with the solution.
 
-#### КОРИСТУВАЧІ
+#### USERS
 
-У розробці рішення зацікавлені безліч сторін, проте безпосередньо з ним будуть працювати саме користувачі, тому перш ніж починати проектування рішення, необхідно визначити, хто буде з ним взаємодіяти.
+Many parties are interested in developing a solution, but it is the users who will work directly with it, so before you start designing a solution, you need to determine who will interact with it.
 
-В процесі аналізу мають бути виділені *групи користувачів* (наприклад, на основі галузей їх діяльності, в яких використовуватиметься рішення, що розробляється).
+The analysis process should identify *user groups* (for example, based on the areas of their activities in which the solution to be developed will be used).
 
->- **В ігровому процесі можуть приймати участь наступні групи користувачів:**
->   - Гравці (користувачі гри) — основна цільова аудиторія. Вони отримують, колекціонують, обмінюють та використовують NFT-предмети під час гри.
->   - Розробники гри — відповідають за технічнну підтримку, оновлення функціональності і розвиток історії
->   - Партнерськи сервіси — гаманці, дашборди, API-аналітики тощо, що надають інструменти для інтеграції, моніторингу або керування активами
+>- **The following user groups can participate in the gameplay:**
+>    - Players (game users) are the main target audience. They receive, collect, exchange and use NFT items during the game.
+>    - Game developers - responsible for technical support, functionality updates and story development
+>    - Partner services - wallets, dashboards, API analytics, etc., which provide tools for integration, monitoring or asset managemen
 
-#### СЦЕНАРІЇ ВИКОРИСТАННЯ
+#### USE CASES
 
-*Сценарії використання* (usage scenarios або *прецеденти*) визначають послідовності дій, які користувачі виконують при взаємодії з рішенням. MSF не змушує використовувати конкретні способи опису сценаріїв використання, однак містить рекомендації стосовно використання мови UML (*діаграма прецедентів*) - це один з можливих і досить поширених варіантів.
+*Use cases define the sequences of actions that users perform when interacting with a solution. MSF does not force the use of specific ways to describe use cases, but it does recommend using the UML language (*precedent diagram*) as one of the possible and quite common options.
 
 ![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/Precedent%20diagram%20Glorica.drawio.png?raw=true)
 
-### **2.4. Вимоги**
-Вимоги (requirements) визначають, що має робити рішення, яке ви розробляєте (які послуги надавати користувачам). Вимоги можуть бути описані в термінах *функціональності* або у вигляді правил і параметрів, які визначають функціональність.
+### **2.4. Requirements**
+Requirements define what the solution you are developing should do (what services should be provided to users). Requirements can be described in terms of *functionality* or in the form of rules and parameters that define functionality.
 
-#### ВИМОГИ КОРИСТУВАЧІВ
+#### USER REQUIREMENTS
 
-
->- **Основні вимоги до функціональності NFT-рішення для гри Glorica Battle включають наступне:**
->   - створення та відображення NFT-предметів у геймплейному інтерфейсі гри;
->   - можливість перегляду, сортування та фільтрації NFT у внутрішньому інвентарі гравця;
->   - підтримка багаторазового використання NFT в різних ігрових режимах
->   - здійснення транзакцій купівлі-продажу NFT через зовнішні маркетплейси (наприклад, OpenSea);
->   - обмін NFT між гравцями через функцію p2p-трейду;
->   - верифікація NFT-гаманця (наприклад, через MetaMask або WalletConnect) для входу в гру;
->   - захист від дублювання токенів та шахрайських транзакцій;
->   - перегляд історії транзакцій користувача;
->   - інтеграція NFT-прогресу з акаунтом гравця в системі лідербордів.
+>- **The main requirements for the functionality of the NFT solution for the game Glorica Battle include the following:**
+>    - creation and display of NFT items in the game's gameplay interface
+>    - the ability to view, sort and filter NFTs in the player's internal inventory
+>    - support for multiple use of NFTs in different game modes
+>    - execution of NFT purchase and sale transactions through external marketplaces (e.g. OpenSea)
+>    - exchange of NFTs between players via the p2p trade function
+>    - verification of the NFT wallet (e.g. via MetaMask or WalletConnect) for entering the game
+>    - protection against duplicate tokens and fraudulent transactions
+>    - viewing the user's transaction history
+>    - integration of NFT progress with the player's account in the leaderboard system
 
 #### СИСТЕМНІ ВИМОГИ
 
-
->- **Системні вимоги до рішення включають:**
->   - використання блокчейну з підтримкою смарт-контрактів (Ethereum, Polygon або Solana);
->   - сумісність із популярними Web3-гаманцями (MetaMask, Trust Wallet, Coinbase Wallet);
->   - бекенд рішення має бути розгорнутий у хмарному середовищі
->   - постійне резервне копіювання даних гравців та NFT-стану
->   - використання IPFS або іншого децентралізованого сховища для збереження метаданих NFT
-
-
-### **2.5. Рамки**
-Рамки (scope) визначають *параметри* створюваного рішення, деталізуючи функціональність, визначаючи, що залишиться за рамками рішення і вказуючи *критерії*, за якими зацікавлені особи будуть судити про готовність рішення. Рамки створюються на основі *єдиного бачення*, є результатом *компромісу між сформульованими цілями та умовами реальності* і відображають *пріоритезацію замовником наявних вимог* до створюваного рішенням. Частиною процесу визначення рамок проекту є винесення не надто важливої функціональності з поточного проекту в плани на майбутнє.
-
-*Рамки рішення* (solution scope) визначають *функціональність* рішення і його можливості (включаючи ті, що не стосуються програмного забезпечення). Можливість (функціональність, складова, *feature*) - це необхідний або бажаний аспект програмного або апаратного забезпечення. 
-
-Наприклад, попередній перегляд перед друком може бути можливістю текстового процесора; шифрування поштових повідомлень - можливістю поштової програми. Супровідні документи для користувачів, інтерактивні файли допомоги, операційна документація і навчання персоналу також можуть бути складовими вирішення.
-
-*Рамки проекту* (project scope) визначають *обсяг робіт*, який має бути виконаний проектною групою для надання замовнику всіх елементів, визначених рамками рішення.
-
-*Керування рамками проекту є критичним для його успіху*. MSF пропонує визначати і фіксувати рамки рішення і проекту, використовуючи *трикутник компромісів* і *матрицю компромісів* проекту.
-
-#### ФУНКЦІОНАЛЬНІСТЬ РІШЕННЯ
-
->- **Основні можливості (features) та функції (functions) рішення включають:**
->   - створення ігрових колод на основі NFT карток
->   - збереження NFT на блокчейні (Ethereum або L2-рішення) з унікальними токенами та метаданими;
->   - обмін і продаж NFT-карт між користувачами через внутрішній маркетплейс;
->   - підключення Web3-гаманців (наприклад, MetaMask) для автентифікації користувачів;
->   - детальна документація для користувача та базовий гайд для новачків у Web3.
-
-#### ЗА РАМКАМИ РІШЕННЯ
-
->- **З огляду на обмежені ресурси (час, бюджет, команда) за межами першої фази проєкту залишено наступні можливості:**
->   - реалізація мобільного застосунку (Android/iOS): буде перенесено в майбутній реліз через обмеження в ресурсах розробки;
->   - система rental/leasing NFT (тимчасова оренда персонажів): потребує додаткового модулю захисту активів, буде реалізована після запуску основного функціоналу;
->   - створення кланів, турнірів: потребує розробки окремого сервера та логіки синхронізації.
-
-### **2.6. Критерії схвалення рішення**
+>- **System requirements for the solution include:**
+>    - use of a blockchain with support for smart contracts (Ethereum, Polygon or Solana)
+>    - compatibility with popular Web3 wallets (MetaMask, Trust Wallet, Coinbase Wallet)
+>    - the backend of the solution must be deployed in a cloud environment
+>    - constant backup of player data and NFT state
+>    - use of IPFS or other decentralized storage to store NFT metadata
 
 
->- **Рішення про готовність NFT-карткової гри до впровадження зацікавлені сторони будуть приймати на основі наступних критеріїв:**
->   - реалізовано всю функціональність, зазначену в рамках рішення, зокрема збір гральних колод, механіку поєдинків, NFT-збереження та маркетплейс;
->   - система коректно інтегрується з Web3-гаманцями (наприклад, MetaMask) і дозволяє авторизованим користувачам взаємодіяти з NFT;
->   - внутрішні тести показують стабільність ігрового процесу, збереження NFT і проведення транзакцій на тестовій мережі;
->   - усі базові сценарії гри (створення колоди, участь у поєдинках, перегляд карт, купівля/продаж карт) працюють без збоїв;
->   - документація охоплює як технічні аспекти (API, розгортання, структура smart-контрактів), так і користувацькі інструкції (довідник по грі, глосарій термінів, FAQ);
->   - зацікавлені сторони підтвердили, що реалізований функціонал відповідає їхнім очікуванням і початковим вимогам.
+### **2.5. Scope**
+The scope defines the *parameters* of the solution to be created, detailing the functionality, defining what will be left out of the solution and specifying the *criteria* by which stakeholders will judge the readiness of the solution. The framework is created on the basis of a *unified vision*, is the result of a *compromise between the formulated goals and the conditions of reality* and reflects the customer's *prioritization of existing requirements* for the solution being created. Part of the process of defining the project scope is to move less important functionality from the current project to future plans.
 
-## **3. СТРАТЕГІЇ ПРОЕКТУВАННЯ РІШЕННЯ**
-### **3.1. Стратегія архітектурного проектування**
+*The solution scope defines the solution's *functionality* and capabilities (including those that are not software-related). A feature (functionality, component, *feature*) is a required or desired aspect of software or hardware. 
 
-На основі розробленого списку можливостей і функцій формується *стратегія архітектурного проектування* (architectural design strategy), яка описує рішення в цілому. 
+For example, previewing before printing may be a feature of a word processor; encrypting email messages may be a feature of an email program. User support documents, online help files, operational documentation, and staff training can also be part of the solution.
 
-Стратегія архітектурного проектування визначає *компоненти* рішення і їх *взаємодію*. Чудовий спосіб опису рішення на цьому етапі - використання ілюструючих діаграм UML (наприклад, **діаграми класів**, **діаграми компонентів**, **діаграма розгортання** тощо).
+*The project scope defines the *scope of work* that must be completed by the project team to deliver all the elements defined in the solution framework to the customer.
 
-:point_right: Сформуйте і опишіть загальний архітектурний проект рішення.
+*Managing the project scope is critical to its success.* MSF suggests defining and capturing the scope of the solution and the project using the *tradeoff triangle* and the project *tradeoff matrix*.
 
-:bulb: *Для цього ви можете створити діаграми вказаних видів за допомогою сервісу [draw.io](https://www.draw.io/?mode=github) (посилання створить нову діаграму), назвати відповідним чином (наприклад, ```Діаграма класів.drawio```), зберегти у теці ```/docs/1.Envisioning``` та **додати в цей документ посилання на них**!*
+#### SOLUTION FUNCTIONALITY
 
-### **3.2. Стратегія технологічного проектування**
+>- **The main features and functions of the solution include:**
+>    - creation of game decks based on NFT cards
+>    - storage of NFTs on the blockchain (Ethereum or L2 solution) with unique tokens and metadata
+>    - exchange and sale of NFT cards between users via an internal marketplace
+>    - connection of Web3 wallets (e.g. MetaMask) for user authentication
+>    - detailed user documentation and a basic guide for beginners in Web3
 
-Розробка рішення потребує використання певних *програмних продуктів, бібліотек, фреймворків, технологій*. 
+#### WITHIN THE SOLUTION
 
-Стратегія технологічного проектування (technical design strategy) описує, які технології і програмні продукти були обрані проектною групою у якості засобу реалізації рішення.
+>- **Given limited resources (time, budget, team), the following options have been left outside the first phase of the project:**
+>    - implementation of a mobile application (Android/iOS): will be postponed to a future release due to limitations in development resources
+>    - rental/leasing system NFT (temporary rental of characters): requires an additional asset protection module, will be implemented after the launch of the main functionality
+>    - creation of clans, tournaments: requires the development of a separate server and synchronization logic
 
-:point_right: Аргументовано опишіть, які технологічні засоби буде використано в процесі роботи над рішенням.
+### **2.6. Decision Approval Criteria**
 
-:bulb: *Це може виглядати, наприклад, так:*
->В ході роботи над системою обліку навчальних годин будуть використані наступні *програмні продукти, бібліотеки, фреймворки та технології*:
->- мова програмування С#:
->   - технологія ASP.NET Core MVC - для створення веб-інтерфейсу для навчальної частини
->   - платформа Xamarin - для розробки мобільного застосунку для викладачів
->   - ASP.NET Core Web API - для розробки серверної частини системи
-> - Bootstrap - для забезпечення адаптивності веб-інтерфейсу
->- хмарна платформа Microsoft Azure:
->   - App Services - для хостингу веб-застосунку
->   - Function App - для хостингу REST-сервісів
->   - Cosmos DB - база даних
->   - Service Bus - пуш-повідомлення
->   - Storage Account - для збереження даних звітів 
-> - Power BI - для побудови звітів та візуалізацій
+>- **The decision on the readiness of the NFT card game for implementation will be made by stakeholders based on the following criteria:**
+>    - all functionality specified in the solution has been implemented, including deck building, duel mechanics, NFT storage, and marketplace
+>    - the system correctly integrates with Web3 wallets (e.g., MetaMask) and allows authorized users to interact with NFTs
+>    - internal tests show the stability of the gameplay, NFT storage, and transactions on the test network
+>    - all basic game scenarios (deck creation, participation in duels, card viewing, card buying/selling) work without failures
+>    - the documentation covers both technical aspects (API, deployment, smart contract structure) and user instructions (game guide, glossary, FAQ)
+>    - stakeholders confirmed that the implemented functionality meets their expectations and initial requirements
+
+## **3. SOLUTION DESIGN STRATEGIES**
+### **3.1. Architectural Design Strategy**
+
+Based on the developed list of capabilities and functions, an *architectural design strategy* is formed, which describes the solution as a whole.
+
+The architectural design strategy defines the *components* of the solution and their *interactions*. A great way to describe the solution at this stage is to use illustrative UML diagrams (for example, **class diagrams**, **component diagrams**, **deployment diagrams**, etc.).
+
+:point_right: Form and describe the overall architectural design of the solution.
+
+:bulb: *To do this, you can create diagrams of the specified types using the service [draw.io](https://www.draw.io/?mode=github) (the link will create a new diagram), name it appropriately (for example, ```Class diagram.drawio```), save to folder```/docs/1.Envisioning``` and **add a link to them in this document**!*
+
+### **3.2. Technology Design Strategy**
+
+Developing a solution requires the use of certain *software products, libraries, frameworks, technologies*.
+
+The technology design strategy describes which technologies and software products have been selected by the project team as a means of implementing the solution.
+
+:point_right: Describe with justification what technological tools will be used in the process of working on the solution.
+
+:bulb: *This could look like this, for example:*
+>During the work on the system for accounting of educational hours, the following *software products, libraries, frameworks and technologies will be used*:
+>- C# programming language:
+>   - ASP.NET Core MVC technology - to create a web interface for the educational part
+>   - Xamarin platform - to develop a mobile application for teachers
+>   - ASP.NET Core Web API - to develop the server part of the system
+> - Bootstrap - to ensure the adaptability of the web interface
+>- Microsoft Azure cloud platform:
+>   - App Services - for hosting a web application
+>   - Function App - for hosting REST services
+>   - Cosmos DB - database
+>   - Service Bus - push notifications
+>   - Storage Account - for storing report data
+> - Power BI - for building reports and visualizations
