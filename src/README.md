@@ -1,10 +1,7 @@
 # Project source code
 
-Project: *Task/project name*
+Project: Glorica Battle
 
-Team: *Team name*
+Team: Byte of Byte
 
-**Developers**:
-
-- [ ] *Student name*
-- [ ] *Student's last name*
+*Project implementation...*
