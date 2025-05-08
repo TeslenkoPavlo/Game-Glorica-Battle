@@ -207,37 +207,3 @@ For example, previewing before printing may be a feature of a word processor; en
 >    - all basic game scenarios (deck creation, participation in duels, card viewing, card buying/selling) work without failures
 >    - the documentation covers both technical aspects (API, deployment, smart contract structure) and user instructions (game guide, glossary, FAQ)
 >    - stakeholders confirmed that the implemented functionality meets their expectations and initial requirements
-
-## **3. SOLUTION DESIGN STRATEGIES**
-### **3.1. Architectural Design Strategy**
-
-Based on the developed list of capabilities and functions, an *architectural design strategy* is formed, which describes the solution as a whole.
-
-The architectural design strategy defines the *components* of the solution and their *interactions*. A great way to describe the solution at this stage is to use illustrative UML diagrams (for example, **class diagrams**, **component diagrams**, **deployment diagrams**, etc.).
-
-:point_right: Form and describe the overall architectural design of the solution.
-
-:bulb: *To do this, you can create diagrams of the specified types using the service [draw.io](https://www.draw.io/?mode=github) (the link will create a new diagram), name it appropriately (for example, ```Class diagram.drawio```), save to folder```/docs/1.Envisioning``` and **add a link to them in this document**!*
-
-### **3.2. Technology Design Strategy**
-
-Developing a solution requires the use of certain *software products, libraries, frameworks, technologies*.
-
-The technology design strategy describes which technologies and software products have been selected by the project team as a means of implementing the solution.
-
-:point_right: Describe with justification what technological tools will be used in the process of working on the solution.
-
-:bulb: *This could look like this, for example:*
->During the work on the system for accounting of educational hours, the following *software products, libraries, frameworks and technologies will be used*:
->- C# programming language:
->   - ASP.NET Core MVC technology - to create a web interface for the educational part
->   - Xamarin platform - to develop a mobile application for teachers
->   - ASP.NET Core Web API - to develop the server part of the system
-> - Bootstrap - to ensure the adaptability of the web interface
->- Microsoft Azure cloud platform:
->   - App Services - for hosting a web application
->   - Function App - for hosting REST services
->   - Cosmos DB - database
->   - Service Bus - push notifications
->   - Storage Account - for storing report data
-> - Power BI - for building reports and visualizations
