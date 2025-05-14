@@ -3,7 +3,7 @@
 
 ## Level VG-001: Volcanic Gateway
 
-![]()
+![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/VolcanicGateway.png)
 
 ### Gameplay
 Players must harness thermal energy to power up their cards while avoiding dangerous eruptions. The volcanic environment introduces unique mechanics:
@@ -15,7 +15,7 @@ Players must harness thermal energy to power up their cards while avoiding dange
 
 ## Level IK-002: Ice Kingdom
 
-![]()
+![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/IceKingdom.png)
 
 ### Gameplay
 Players explore frozen time streams, using reflections to create tactical advantages. Key mechanics include:
@@ -27,7 +27,7 @@ Players explore frozen time streams, using reflections to create tactical advant
 
 ## Level UF-003: Underwater Factory
 
-![]()
+![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/UnderwaterFactory.png)
 
 ### Gameplay
 Players control water currents to move between sections, using pressure to activate mechanisms. Advanced features include:
@@ -39,7 +39,7 @@ Players control water currents to move between sections, using pressure to activ
 
 ## Level SD-004: Sky Docks
 
-![]()
+![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/SkyDocks.png)
 
 ### Gameplay
 Players utilize air currents for maneuvering between docks, protecting cargo from pirates. Strategic elements include:
@@ -51,7 +51,7 @@ Players utilize air currents for maneuvering between docks, protecting cargo fro
 
 ## Level JG-005: Jungle Grid
 
-![]()
+![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/JungleGrid.png)
 
 ### Gameplay
 Players interact with an intelligent ecosystem, using natural elements to overcome obstacles. Core mechanics include:
@@ -63,7 +63,7 @@ Players interact with an intelligent ecosystem, using natural elements to overco
 
 ## Level DM-006: Desert Mirage
 
-![]()
+![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/DesertMirage.png)
 
 ### Gameplay
 Players must distinguish reality from mirages, using the right cards for navigation. Advanced features include:
@@ -75,7 +75,7 @@ Players must distinguish reality from mirages, using the right cards for navigat
 
 ## Level CS-007: Cosmic Station
 
-![]()
+![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/CosmicStation.png)
 
 ### Gameplay
 Players utilize gravitational anomalies to create tactical advantages in space battles. Key mechanics include:
@@ -87,7 +87,7 @@ Players utilize gravitational anomalies to create tactical advantages in space b
 
 ## Level UM-008: Underground Market
 
-![]()
+![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/UndergroundMarket.png)
 
 ### Gameplay
 Players trade and compete in underground arenas, collecting rare cards. Advanced features include:
@@ -99,7 +99,7 @@ Players trade and compete in underground arenas, collecting rare cards. Advanced
 
 ## Level NC-009: Neon Carnival
 
-![]()
+![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/NeonCarnival.png)
 
 ### Gameplay
 Players progress through carnival trials, using entertainment as weapons. Strategic elements include:
@@ -111,7 +111,7 @@ Players progress through carnival trials, using entertainment as weapons. Strate
 
 ## Level AM-010: Ancient Monastery
 
-![]()
+![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/AncientMonastery.png)
 
 ### Gameplay
 Players study ancient time control techniques through meditation and rituals. Core mechanics include:
@@ -123,7 +123,7 @@ Players study ancient time control techniques through meditation and rituals. Co
 
 ## Level QF-011: Quantum Forest
 
-![]()
+![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/QuantumForest.png)
 
 ### Gameplay
 Players interact with forest spirits to control natural time forces. Advanced features include:
@@ -135,7 +135,7 @@ Players interact with forest spirits to control natural time forces. Advanced fe
 
 ## Level SI-012: Steam Island
 
-![]()
+![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/SteamIsland.png)
 
 ### Gameplay
 Players use steam mechanisms to control the island and create tactical advantages. Key mechanics include:
@@ -147,7 +147,7 @@ Players use steam mechanisms to control the island and create tactical advantage
 
 ## Level EC-013: Energy Core
 
-![]()
+![](https://github.com/TeslenkoPavlo/Game-Glorica-Battle/blob/main/docs/other/EnergyCore.png)
 
 ### Gameplay
 Final level where players control the power of the energy core to create new timelines. Advanced features include:
